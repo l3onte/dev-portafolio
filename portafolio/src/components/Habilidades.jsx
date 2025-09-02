@@ -12,19 +12,19 @@ export default function Habilidades() {
         <div className="flex flex-col items-start">
           <p className="mb-6 text-2xl font-bold">Frontend</p>
           <div className="flex items-center gap-2 mb-3">
-            <img className="w-12 h-12" src="src/media/html.png" alt="HTML" />
+            <img className="w-12 h-12" src="/media/html.png" alt="HTML" />
             <p>HTML</p>
           </div>
           <div className="flex items-center gap-2 mb-3">
-            <img className="w-12 h-12" src="src/media/css.png" alt="CSS" />
+            <img className="w-12 h-12" src="/media/css.png" alt="CSS" />
             <p>CSS</p>
           </div>
           <div className="flex items-center gap-2 mb-3">
-            <img className="w-12 h-12" src="src/media/javascript.png" alt="JavaScript" />
+            <img className="w-12 h-12" src="/media/javascript.png" alt="JavaScript" />
             <p>JavaScript</p>
           </div>
           <div className="flex items-center gap-2 mb-3">
-            <img className="w-12 h-12" src="src/media/tailwind.png" alt="Tailwind CSS" />
+            <img className="w-12 h-12" src="/media/tailwind.png" alt="Tailwind CSS" />
             <p>Tailwind CSS</p>
           </div>
         </div>
@@ -32,15 +32,15 @@ export default function Habilidades() {
         <div className="flex flex-col items-start">
           <p className="mb-6 text-2xl font-bold">Backend</p>
           <div className="flex items-center gap-2 mb-3">
-            <img className="w-12 h-12" src="src/media/icons8-c-50.png" alt="C#" />
+            <img className="w-12 h-12" src="/media/icons8-c-50.png" alt="C#" />
             <p>C#</p>
           </div>
           <div className="flex items-center gap-2 mb-3">
-            <img className="w-12 h-12" src="src/media/laravel.png" alt="Laravel" />
+            <img className="w-12 h-12" src="/media/laravel.png" alt="Laravel" />
             <p>Laravel</p>
           </div>
           <div className="flex items-center gap-2 mb-3">
-            <img className="w-12 h-12" src="src/media/mysql.png" alt="MySQL" />
+            <img className="w-12 h-12" src="/media/mysql.png" alt="MySQL" />
             <p>MySQL</p>
           </div>
         </div>
@@ -48,15 +48,15 @@ export default function Habilidades() {
         <div className="flex flex-col">
             <p className="mb-6 text-2xl font-bold">Otras Herramientas</p>
             <div className="flex items-center gap-2 mb-3">
-                <img className="w-12 h-12" src="src\media\GitHub.png" alt="GitHub" />
+                <img className="w-12 h-12" src="/media/GitHub.png" alt="GitHub" />
                 <p>GitHub</p>
             </div>
             <div className="flex items-center gap-2 mb-3">
-                <img className="w-12 h-12" src="src\media\chatbot.png" alt="Chatfuel" />
+                <img className="w-12 h-12" src="/media/chatbot.png" alt="Chatfuel" />
                 <p>Chatfuel</p>
             </div>
             <div className="flex items-center gap-2 mb-3">
-                <img className="w-12 h-12" src="src\media\postman.png" alt="Postman" />
+                <img className="w-12 h-12" src="/media/postman.png" alt="Postman" />
                 <p>Postman</p>
             </div>
         </div>

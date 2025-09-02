@@ -24,14 +24,14 @@ export default function Experiencia() {
 
       </div>
       <img 
-        src="src/media/Rosas-y-Mas.png" 
+        src="/media/Rosas-y-Mas.png" 
         alt="Proyecto Administrativo" 
         className="mt-6 w-full max-w-3xl rounded-xl shadow-xl object-cover hover:scale-105 transition-transform"
       />
 
         <div className="mt-6 w-full max-w-3xl rounded-xl shadow-xl overflow-hidden bg-black">
             <video 
-                src="src\media\Demostracion-muted.mp4" 
+                src="/media/Demostracion-muted.mp4" 
                 muted 
                 loop 
                 controls

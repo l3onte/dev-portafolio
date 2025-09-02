@@ -4,7 +4,7 @@ export default function ContactButton() {
                         text-white font-bold py-2 px-15 rounded cursor-pointer
                         ">
             Contáctame
-            <img src="src\media\enviar.png" alt="" className="size-5"/>
+            <img src="/media/enviar.png" alt="" className="size-5"/>
         </a>   
     )
 }
